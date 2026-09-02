@@ -9,6 +9,10 @@ def get_potential_energy(mass,g,height):
 def get_total_energy(kinetic_energy , potential_energy):
 	total_energy = kinetic_energy + potential_energy
 	return total_energy
+
+def get_momentum(mass,velocity):
+	momentum = mass * velocity
+	return momentum
 	
 def main():
 	g = 9.8
@@ -18,11 +22,14 @@ def main():
 	kinetic_energy = get_kinetic_energy(mass,velocity)
 	potential_energy = get_potential_energy(mass,g,height) 
 	total_energy = get_total_energy(kinetic_energy,potential_energy)
+	momentum = get_momentum(mass,velocity)
 	
 	print("\n --- Energy Calculator ---")
 	print(f"Kinetic_energy is {kinetic_energy} Joules.")
 	print(f"Potential energy is {potential_energy} Joules.")
 	print(f"Total energy is {total_energy} Joules.")
+	print("\n --- Momentum ---")
+	print(f"Momentum is {momentum} kg m/s.")
 
 if __name__ == "__main__":
     main()
