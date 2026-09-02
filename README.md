@@ -8,8 +8,8 @@ This Python script calculates kinetic energy, potential energy and total energy,
 ## Example
 - Mass: 5kg
 - Velocity: 10 m/s
-- Height 2 m
-- gravitational acceleration (g) = 9.8 (meters per square second)
+- Height: 2 m
+- gravitational acceleration (g): 9.8 (meters per square second)
 
 Output: 
 - Kinetic Energy: `1/2 * Mass * (Velocity ** 2) = 1/2 * 5 * (10 ** 2) = 250 J`.
