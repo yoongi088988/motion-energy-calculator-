@@ -1,6 +1,7 @@
 # Energy Calculator
 ## Preview
-<img width="463" height="245" alt="image" src="https://github.com/user-attachments/assets/a4f1dc2d-414c-471f-81b2-7988bae2f89b" />
+<img width="463" height="245" alt="image" src="https://github.com/user-attachments/assets/341c4017-7c8e-4ef9-b289-0106c20fb94a" />
+
 
 
 ## About project
