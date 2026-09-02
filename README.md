@@ -6,7 +6,7 @@
 This Python script calculates kinetic energy, potential energy and total energy, and momentum when mass, velocity and height is entered.
 
 ## Example
-- Mass: 5kg
+- Mass: 5 kg
 - Velocity: 10 m/s
 - Height: 2 m
 - gravitational acceleration (g): 9.8 (meters per square second)
